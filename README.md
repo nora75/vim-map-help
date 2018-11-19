@@ -2,6 +2,7 @@
 
 A vim plugin for use Vim.  
 This plugin supports only up Vim 8.1  
+**This plugin not move yet.**
 
 # Description
 
